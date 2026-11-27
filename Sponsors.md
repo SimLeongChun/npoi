@@ -77,6 +77,20 @@ directly.
       ISS-Switzerland
 </td>
 <td align="center">
+      <a href="https://github.com/RevvitySignals">
+        <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b3cf0330-a7b7-4a32-8acb-d5eced40d33e" />
+      </a>
+      <br />
+      Revvity Signals
+</td>
+<td align="center">
+      <a href="https://github.com/varicent">
+        <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f96d46ad-45c5-4658-8387-8aeba48c9bad" />
+      </a>
+      <br />
+      Varicent
+</td>
+<td align="center">
       <a href="https://easylaser.com/">
      <img width="100" alt="image" src="https://github.com/user-attachments/assets/5e3fb6ab-93c3-49b3-89ea-eb0851763d68" />
       </a>
@@ -111,15 +125,15 @@ directly.
       <br />
       Homie AG
 </td>
-
-<td align="center">
+  </tr>
+   <tr>
+  <td align="center">
       <a href="https://www.silex-partners.com/">
         <img width="100" alt="image" src="https://github.com/user-attachments/assets/fc4aa3ee-9340-4272-b425-07c91aabceea" />
       </a>
       <br />
       Silex
 </td>
-
 <td align="center">
       <a href="https://wem.io/">
         <img width="100 alt="image" src="https://github.com/user-attachments/assets/1c349370-946b-4d96-81fa-17743f11bbcf" />
@@ -133,11 +147,9 @@ directly.
       <br />
       Equin Limited
 </td>
-  </tr>
-   <tr>
   <td align="center">
      <a href="https://www.lifehelp.com/">
-     <img width="100" alt="image" src="https://github.com/user-attachments/assets/aa9d7ffb-bbe2-4da1-8c82-16daff20202a" />
+     <img width="150" alt="image" src="https://github.com/user-attachments/assets/aa9d7ffb-bbe2-4da1-8c82-16daff20202a" />
      </a>
     <br/>
      Life Help
@@ -149,9 +161,27 @@ directly.
     <br/>
      KEYSYS
    </td>
-
-     
-
+  <td align="center">
+     <a href="https://receiveup.com/">
+      <img width="304" height="120" alt="image" src="https://github.com/user-attachments/assets/4a846f3b-a738-487a-9749-2df02df4897e" />
+     </a>
+    <br/>
+     ReceiveUp
+   </td>     
+  <td align="center">
+     <a href="https://github.com/WolfeReiter">
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7d31a699-1b10-4cbc-865f-6a93c00f902c" />
+     </a>
+    <br/>
+     WolfeReiter LLC
+   </td>      
+     <td align="center">
+     <a href="https://github.com/SelectViewData"> 
+     <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/07050446-7ff8-4224-8dd8-aa3c976a8f6c" />
+     </a>
+    <br/>
+     SelectView Data Solutions
+   </td>  
    </tr>
 </table>
 
